@@ -8,6 +8,8 @@ Data Science Enthusiast and Life-Long Learner with a passion for applying innova
 
 ![สกรีนช็อต 2023-11-06 222543](https://github.com/Mvrkery/Mvrkery/assets/138161362/cadd023c-01d7-4dae-81f8-02029ba00c74)
 
+Cick here to see all my certificates
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvrkery&show_icons=true&locale=en" alt="mvrkery" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvrkery&" alt="mvrkery" /></p>
