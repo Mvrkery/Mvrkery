@@ -8,7 +8,6 @@ Welcome to my GitHub profile! 🎉
 
 Data Science Enthusiast and Life-Long Learner with a passion for applying innovative solutions to complex problems. Proven ability to collect, analyze, and interpret large and complex datasets to extract meaningful insights. Expertise in Python, R, SQL, and Tableau. Strong analytical and problem-solving skills, with a focus on collaboration and teamwork.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](bit.ly/m/mvrkery)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athiwat-sirinantipak-a14a28279/)
 
 ![สกรีนช็อต 2023-11-06 222543](https://github.com/Mvrkery/Mvrkery/assets/138161362/cadd023c-01d7-4dae-81f8-02029ba00c74)
