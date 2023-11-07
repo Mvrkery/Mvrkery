@@ -17,4 +17,3 @@ Data Science Enthusiast and Life-Long Learner with a passion for applying innova
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvrkery&show_icons=true&locale=en" alt="mvrkery" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvrkery&" alt="mvrkery" /></p>
